@@ -1,0 +1,5 @@
+# Ignore the original .env
+.env
+
+# Allow the template file
+!.env.example
